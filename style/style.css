@@ -1,7 +1,7 @@
 
 
 .Part-1{
-	background-image: url('C:/Users/faust/OneDrive/Bureau/coding skills/images/spikes.jpg');
+	background-image: url("../images/spikes.jpg");
 	box-shadow: 10px 5px 5px black;
     height: 50vh;
     width: 20vh;
@@ -21,7 +21,7 @@ a {
 }
 
 .Part-1:hover{
-	background-image: url('C:/Users/faust/OneDrive/Bureau/coding skills/images/spikes.jpg');
+	background-image: url("../images/spikes.jpg");
 	background-size: cover;
 	height: 50vh;
     width: 140vh;
@@ -30,7 +30,7 @@ a {
 	border-radius: 5px;
 }
 .Part-2{
-	background-image: url('C:/Users/faust/OneDrive/Bureau/coding skills/images/track.jpg');
+	background-image: url("../images/track.jpg");
 	box-shadow: 10px 5px 5px black;
 	background-size: cover;
 	height: 50vh;
@@ -41,7 +41,7 @@ a {
 	transition: width 2s, height 2s, background-color 2s, transform 2s;
 }
 .Part-2:hover {
-	background-image: url('C:/Users/faust/OneDrive/Bureau/coding skills/images/track.jpg');
+	background-image: url("../images/track.jpg");
 	height: 50vh;
     width: 140vh;
 	text-align: center;
@@ -49,7 +49,7 @@ a {
 	border-radius: 5px;
  }
 .Part-3{
-	background-image: url('C:/Users/faust/OneDrive/Bureau/coding skills/images/line.jpg');
+	background-image: url("../images/line.jpg");
 	box-shadow: 10px 5px 5px black;
 	background-position: right;
 	background-size: cover;
@@ -61,7 +61,7 @@ a {
 	transition: width 2s, height 2s, background-color 2s, transform 2s;
 }
 .Part-3:hover{
-	background-image: url('C:/Users/faust/OneDrive/Bureau/coding skills/images/line.jpg');
+	background-image: url("../images/line.jpg");
 	height: 50vh;
     width: 140vh;
 	text-align: center;
@@ -70,7 +70,7 @@ a {
 }
 
 .Part-4{
-	background-image: url('C:/Users/faust/OneDrive/Bureau/coding skills/images/win.jpg');
+	background-image: url("../images/win.jpg");
 	box-shadow: 10px 5px 5px black;
 	background-size: cover;
 	height: 50vh;
@@ -81,7 +81,7 @@ a {
 	transition: width 2s, height 2s, background-color 2s, transform 2s;
 }
 .Part-4:hover{
-	background-image: url('C:/Users/faust/OneDrive/Bureau/coding skills/images/win.jpg');
+	background-image: url("../images/win.jpg");
 	height: 50vh;
     width: 140vh;
 	text-align: center;
@@ -97,7 +97,7 @@ a {
 }
 
  #mapaire{
-	background-image: url('C:/Users/faust/OneDrive/Bureau/coding skills/images/swoosh.webp');
+	background-image: url("../images/swoosh.webp");
 	background-position: center;
 	background-size: 100%;
 	border-radius: 5px;
